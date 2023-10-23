@@ -155,7 +155,7 @@ mented the frontend of Shiv Rooms using React.js , ensuring a responsive and vis
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Ecommerce-3.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Ecommerce-3.png"
 
           alt="Third slide"
         />
