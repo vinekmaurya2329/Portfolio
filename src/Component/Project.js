@@ -11,7 +11,7 @@ function Project() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/pairup-SS.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/pairup-SS.png"
           alt="First slide"
         />
         
@@ -19,7 +19,7 @@ function Project() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/pairup-2-SS.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/pairup-2-SS.png"
           alt="Second slide"
         />
        
@@ -27,7 +27,7 @@ function Project() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/pairup-3-SS.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/pairup-3-SS.png"
           alt="Third slide"
         />
         
@@ -75,7 +75,7 @@ community. Seamlessly integrated frontend and backend components
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Shivrooms-1.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Shivrooms-1.png"
           alt="First slide"
         />
         
@@ -83,7 +83,7 @@ community. Seamlessly integrated frontend and backend components
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Shivrooms-2.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Shivrooms-2.png"
           alt="Second slide"
         />
        
@@ -91,7 +91,7 @@ community. Seamlessly integrated frontend and backend components
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Shivrooms-3.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Shivrooms-3.png"
           alt="Third slide"
         />
         
@@ -99,7 +99,7 @@ community. Seamlessly integrated frontend and backend components
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Shivrooms-4.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Shivrooms-4.png"
           alt="Third slide"
         />
         
@@ -138,7 +138,7 @@ mented the frontend of Shiv Rooms using React.js , ensuring a responsive and vis
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Ecommerce-1.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Ecommerce-1.png"
           alt="First slide"
         />
         
@@ -146,7 +146,7 @@ mented the frontend of Shiv Rooms using React.js , ensuring a responsive and vis
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Ecommerce-2.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Ecommerce-2.png"
 
           alt="Second slide"
         />
@@ -164,7 +164,7 @@ mented the frontend of Shiv Rooms using React.js , ensuring a responsive and vis
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Ecommerce-4.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Ecommerce-4.png"
 
           alt="Third slide"
         />
@@ -208,7 +208,7 @@ thentication
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Quora-1.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Quora-1.png"
           alt="Second slide"
         />
        
@@ -216,7 +216,7 @@ thentication
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Quora-2.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Quora-2.png"
           alt="Third slide"
         />
         
@@ -224,7 +224,7 @@ thentication
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Quora-3.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Quora-3.png"
           alt="Third slide"
         />
         
@@ -232,7 +232,7 @@ thentication
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://localhost:3000/Quora-4.png"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Quora-4.png"
           alt="Third slide"
         />
         
