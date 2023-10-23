@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+h1{
+    font-size: 5vw;
+}
+
+h3{
+    color: rgba(177, 172, 172, 0.904);
+}
+
+.container1{
+    height: calc(100% - 40px);
+    /* overflow: hidden; */
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+    width: 100vw;
+    height: 100vh;
+    background: url('https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&q=80&w=2020&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: 100vw 100vh;
+
+}
+    
+.right-container-img{
+    width: 30vw;
+    height: 50vh;
+}
+.left-container{
+    /* width: 40vw; */
+    margin-top: 20px;
+    color: white;
+    flex-shrink: 2;
+}
+.left-container h3{
+    color: rgb(240, 114, 114);
+}
+.right-container{
+    /* width: 40vw; */
+   
+    flex-shrink:3;
+}
+@media (max-width:650px) {
+    .right-container{
+        order:1;
+       
+    }
+    .left-container{
+        order:2;
+       
+
+    }
+    .right-container img {
+      height: 30vh;
+      width: 60vw;
+      margin-bottom: 1vh;
+      
+    }
+    .container1{
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        
+    }
+     div .logo-container {
+        display: flex;
+        justify-content: space-between;
+     }
+     .logo-container img{
+        width: 9vw;
+        height: 9vw;
+    }
+}
+.logo-container ul{
+    display: flex;
+    margin-top: 20px;
+}
+.logo-container li  {
+ list-style: none;
+ 
+ 
+
+}
+.logo-container li:hover{
+    
+    box-shadow: rgba(253, 252, 252, 0.973) 0px 5px 15px;
+    border-radius: 20px;
+    
+}
+.btn-container button {
+    display: inline-block;
+    margin: 15px 20px;
+    padding: 5px;
+}
+ .btn1 , .btn2{
+    background-color: rgb(253, 161, 161);
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 10px;
+ }
+.btn2:hover{
+    background-color:rgb(249, 194, 194) ;
+  
+}
+.btn1:hover{
+    background-color:rgb(252, 200, 200) ;
+  
+}

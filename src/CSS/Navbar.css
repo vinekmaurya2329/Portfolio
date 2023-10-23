@@ -1,0 +1,13 @@
+nav{
+    height: 40px;
+    color: white !important;
+    position: fixed;
+    top: 0px;
+}
+.in-main a,button{
+    color: white !important;
+}
+.in-main button{
+    color: black !important;
+    background-color: white;
+}
