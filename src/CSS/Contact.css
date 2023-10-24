@@ -1,6 +1,6 @@
 .contact-main{
     width: 100vw;
-    height: 100vh;
+    height: auto;
     background:linear-gradient(rgb(247, 215, 154),rgb(241, 164, 241))
 }
 
