@@ -3,6 +3,8 @@ import Home from './Component/Home';
 import AboutMe from './Component/AboutMe';
 import Skill from './Component/Skill';
 import Project from './Component/Project';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Github from './Component/Github';
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
     <AboutMe/>
     <Skill/>
     <Project/>
+    <Github/>
     </>
   );
 }

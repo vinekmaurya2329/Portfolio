@@ -5,6 +5,7 @@ import Carousel from 'react-bootstrap/Carousel';
 function Project() {
   return (
     <>
+    <h2 style={{textAlign:'center', marginBottom:'10px'}}>Projects</h2><hr />
     <div className="container-4">
         <div className="container-4-child">
         <Carousel data-bs-theme="dark">
@@ -66,7 +67,7 @@ community. Seamlessly integrated frontend and backend components
          </div>
          <div className="link-container">
           <a href="https://github.com/vinekmaurya2329/Pair-Up.git"><button className='link-btn'>Github link</button></a>
-          <a href=""><button className='link-btn'>Live link</button></a>
+          <a href="https://pair-up-gilt.vercel.app/"><button className='link-btn'>Live link</button></a>
          </div>
         </div>
 
@@ -197,7 +198,7 @@ thentication
          </div>
          <div className="link-container">
           <a href="https://github.com/vinekmaurya2329/Ecommerce_app.git"><button className='link-btn'>Github link</button></a>
-          <a href=""><button className='link-btn'>Live link</button></a>
+          <a href="https://delightful-ox-coveralls.cyclic.app/"><button className='link-btn'>Live link</button></a>
          </div>
         </div>
 
