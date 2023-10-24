@@ -4,7 +4,7 @@ import '../CSS/AboutMe.css';
 function AboutMe() {
   return (
    <>
-   <div className="container-2">
+   <div className="container-2" id='about'>
 <div className="left-container-2">
     <img src="https://www.witsolution.in/images/services/PHP-Development-3.jpg" alt="img" />
 </div>

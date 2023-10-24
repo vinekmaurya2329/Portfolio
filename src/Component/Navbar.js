@@ -8,17 +8,19 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 function Navb() {
   return (
    <>
-  
-  <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
+  <div className='navbar-main'>
+  <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary nav-main">
       <Container>
-        <Navbar.Brand href="#home" style={{fontFamily:'cursive'}}><i class="ri-flag-line"></i>Aash</Navbar.Brand>
+        <Navbar.Brand href="/" style={{fontFamily:'cursive'}}><i class="ri-flag-line"></i>Aash</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        <Navbar.Collapse id="responsive-navbar-nav">
+        <Navbar.Collapse id="responsive-navbar-nav" className='bg-white'>
           <Nav className="me-auto">
-            <Nav.Link href="#features">Home</Nav.Link>
-            <Nav.Link href="#pricing" className='text-dark'>Project</Nav.Link>
-            <Nav.Link href="#pricing" className='text-dark'>Skill</Nav.Link>
-            <Nav.Link href="#pricing" className='text-dark'>About Me</Nav.Link>
+            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="#project" className='text-dark'>Project</Nav.Link>
+            <Nav.Link href="#skill" className='text-dark'>Skill</Nav.Link>
+            <Nav.Link href="#about" className='text-dark'>About Me</Nav.Link>
+            <Nav.Link href="#contact" className='text-dark'>Contact me</Nav.Link>
+
 
             {/* <NavDropdown title="More" id="collapsible-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Skill</NavDropdown.Item>
@@ -48,7 +50,7 @@ function Navb() {
         </Navbar.Collapse>
       </Container>
     </Navbar>
-
+    </div>
    </>
   )
   }

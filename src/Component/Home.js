@@ -12,12 +12,15 @@ function Home() {
     <div className='left-container'>
     <h3>Hey !</h3>
     <h1>I'm  VINEK MAURYA</h1>
-    {/* <ul>
-        <li>mern stack developer </li>
-        <li>
-            Full Stack Web Development 
+    <div className='wrapper'>
+    <ul>
+        
+        <li className='li'>
+            Full Stack web Developer | MERN
         </li>
-    </ul> */}
+        
+    </ul>
+    </div>
     <div className="logo-container">
  <ul>
    <li><a href="https://github.com/vinekmaurya2329"><img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/></a></li>

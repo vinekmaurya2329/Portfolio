@@ -11,3 +11,8 @@ nav{
     color: black !important;
     background-color: white;
 }
+.nav-main{
+position: fixed;
+top:0px
+}
+

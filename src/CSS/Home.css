@@ -52,6 +52,7 @@ h3{
     .left-container{
         order:2;
        
+       
 
     }
     .right-container img {
@@ -109,4 +110,42 @@ h3{
 .btn1:hover{
     background-color:rgb(252, 200, 200) ;
   
+}
+.wrapper{
+    display: flex;
+       /* line-height: 80px; */
+       overflow: hidden;
+       height: 30px;
+}
+.left-container .li{
+    list-style: none;
+    color: rgb(244, 152, 152);
+    font-size: 22px;
+    font-weight: 600;
+    top: 0;
+    position: relative;
+    animation: slide 5s steps(3) infinite;
+}
+/* @keyframes slide{
+    100%{
+        top: -30px;
+    }
+} */
+@keyframes typing{
+    40%,60%{
+ left:  calc(105%);
+    }
+    100%{
+        left: 0;
+    }
+}
+.left-container .li::after{
+    content: '';
+    border-left: 2px solid rgb(254, 152, 152) ;
+    animation: typing 3s steps(20) infinite;
+    background-color: black;
+    position: absolute;
+    left:0;
+    height: 100%;
+    width: 100%;
 }

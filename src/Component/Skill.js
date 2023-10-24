@@ -4,8 +4,8 @@ import '../CSS/Skill.css'
 function Skill() {
   return (
     <>
-    <h2 style={{textAlign:'center'}}>Skills</h2>
-    <div className="container-3">
+    <h2 style={{textAlign:'center'}} id='skill'>Skills</h2>
+    <div className="container-3" >
         <div className="container-3-child">
             <img src="https://img.freepik.com/premium-vector/html-5-minimal-flat-logo-design_582637-694.jpg" alt="" />
             <h5>HTML</h5>

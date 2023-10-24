@@ -5,7 +5,7 @@ import Carousel from 'react-bootstrap/Carousel';
 function Project() {
   return (
     <>
-    <h2 style={{textAlign:'center', marginBottom:'10px'}}>Projects</h2><hr />
+    <h2 style={{textAlign:'center', marginBottom:'10px'}} id='project'>Projects</h2><hr />
     <div className="container-4">
         <div className="container-4-child">
         <Carousel data-bs-theme="dark">
