@@ -31,11 +31,11 @@ function Home() {
     </div>
     <div className="btn-container">
         <a href="https://github.com/vinekmaurya2329"><button className='btn1'>See my work</button></a>
-        <a href="https://drive.google.com/file/d/1eeFWt7TcrhRJWkYdGTBv5lFC-KyTZTIz/view?usp=sharing"><button className='btn2'>Resume</button></a>
+        <a href="https://drive.google.com/file/d/1fbCY6tEZHEHTleDy8MGffU-onhIWhLXm/view?usp=sharing"><button className='btn2'>Resume</button></a>
     </div>
     </div>
     <div className='right-container'>
-        <img className='right-container-img' src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="img" />
+        <img className='right-container-img' src="http://localhost:3000/profile.jpg" alt="img" />
         </div>
    </div>
    </>
