@@ -35,7 +35,7 @@ function Home() {
     </div>
     </div>
     <div className='right-container'>
-        <img className='right-container-img' src="https://portfolio-vinekmaurya2329.vercel.app/profile.jpg" alt="img" />
+        <img className='right-container-img' src="https://portfolio-vinekmaurya2329.vercel.app//Profile.jpg" alt="img" />
         </div>
    </div>
    </>
