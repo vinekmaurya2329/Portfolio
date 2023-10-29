@@ -130,7 +130,7 @@ mented the frontend of Shiv Rooms using React.js , ensuring a responsive and vis
          </div>
          <div className="link-container">
           <a href="https://github.com/vinekmaurya2329/HotelBooking_app.git"><button className='link-btn'>Github link</button></a>
-          <a href=""><button className='link-btn'>Live link</button></a>
+          <a href="https://shivroom-client.vercel.app/"><button className='link-btn'>Live link</button></a>
          </div>
         </div>
 
