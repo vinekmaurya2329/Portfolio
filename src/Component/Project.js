@@ -272,9 +272,71 @@ thentication
         </div>
 
         <div className="container-4-child">
-            <img src="https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg" alt="" />
-         <h3>Food Booking </h3>
-         <p></p>
+        <Carousel data-bs-theme="dark">
+      
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Anchors-1.png"
+          alt="Second slide"
+        />
+       
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Anchors-2.png"
+          alt="Third slide"
+        />
+        
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Anchors-3.png"
+          alt="Third slide"
+        />
+        
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://portfolio-j23y154gr-vinekmaurya2329.vercel.app/Anchors-4.png"
+          alt="Third slide"
+        />
+        
+      </Carousel.Item>
+    </Carousel>
+
+
+         <h3>Anchors</h3>
+         <div className="container-4-ul">
+          <li className="project-details">
+          developed a full stack Clone of Quora , Designed and implemented the frontend of Quora‐clone using React.js
+          </li>
+          <li className="project-details">
+           Features : used Firebase to authentication users, also implemented Ask Question Section , reply answer section
+          </li>
+          <li className="project-details">
+             <span className='tech-span'>Technical Skills:</span> HTML, CSS, JavaScript, Firebase, Node.js, Express.js, MongoDB, React.js
+          </li>
+         </div>
+         <div className="tech-icons">
+         <i class="ri-html5-fill"></i>
+         <i class="ri-css3-fill"></i>
+         <i class="ri-javascript-fill"></i>
+         <i class="ri-npmjs-fill"></i>
+         <i class="ri-reactjs-line"></i>
+         <i class="ri-leaf-fill"></i>
+         <i class="ri-fire-fill"></i>
+         <i class="ri-bootstrap-fill"></i>
+         </div>
+
+         <div className="link-container">
+          <a href="https://github.com/vinekmaurya2329/anchors.git"><button className='link-btn'>Github link</button></a>
+          <a href="https://anchor-xh5c.onrender.com/"><button className='link-btn'>Live link</button></a>
+         </div>
+
         </div>
 
     </div>
