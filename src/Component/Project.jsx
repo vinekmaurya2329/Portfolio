@@ -379,13 +379,24 @@ comments, views) and calculate video earnings using a specified formula.
          <h3>Todo</h3>
          <div className="container-4-ul">
           <li className="project-details">
-          developed a full stack room booking web application, ”Shiv Rooms” amied to help passengers for booking and find room, Designed and imple‐
-mented the frontend of Shiv Rooms using React.js , ensuring a responsive and visually appealing user experience
+          Design a full stack application in MERN stack which shall be storing your daily ToDo List
           </li>
           <li className="project-details">
-          Features : Include login and Sign up page ,Booking page And Also implemented Admin Panel
+          Features : where you can perform your CRUD operations
           </li>
-          <li className="project-details"><span className='tech-span'>Technical Skills:</span> HTML, CSS, JavaScript, node.js, Express.js, MongoDB, React.js, Ant Design</li>
+          <li className="project-details">
+          "[i] "  Add a list
+
+          </li>
+          <li className="project-details">
+            "[ii]  " Edit the list
+          </li><li className="project-details">
+            "[iii] " remove the list
+            </li>
+            <li className="project-details">
+            each list item  have a title, a date, a tick-box for a check/uncheck and a shorthand description. 
+            </li>
+          <li className="project-details"><span className='tech-span'>Technical Skills:</span> HTML, CSS,  node.js, Express.js, MongoDB, React.js</li>
           {/* <li className="project-details"></li> */}
          </div>
          <div className="tech-icons">
@@ -398,8 +409,8 @@ mented the frontend of Shiv Rooms using React.js , ensuring a responsive and vis
          <i class="ri-bootstrap-fill"></i>
          </div>
          <div className="link-container">
-          <a href="https://github.com/vinekmaurya2329/HotelBooking_app.git"><button className='link-btn'>Github link</button></a>
-          <a href="https://shivroom-client.vercel.app/"><button className='link-btn'>Live link</button></a>
+          <a href="https://github.com/vinekmaurya2329/todo-client.git"><button className='link-btn'>Github link</button></a>
+          <a href="https://todo-client-orcin.vercel.app/"><button className='link-btn'>Live link</button></a>
          </div>
         </div>
 
