@@ -340,6 +340,68 @@ comments, views) and calculate video earnings using a specified formula.
          </div>
 
         </div>
+        <div className="container-4-child">
+        <Carousel data-bs-theme="dark">
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://portfolio-vinekmaurya2329.vercel.app/todo-1.png"
+          alt="First slide"
+        />
+        
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://portfolio-vinekmaurya2329.vercel.app/todo-2.png"
+          alt="Second slide"
+        />
+       
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://portfolio-vinekmaurya2329.vercel.app/todo-3.png"
+          alt="Third slide"
+        />
+        
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://portfolio-vinekmaurya2329.vercel.app/todo-4.png"
+          alt="Third slide"
+        />
+        
+      </Carousel.Item>
+    </Carousel>
+
+         <h3>Todo</h3>
+         <div className="container-4-ul">
+          <li className="project-details">
+          developed a full stack room booking web application, ”Shiv Rooms” amied to help passengers for booking and find room, Designed and imple‐
+mented the frontend of Shiv Rooms using React.js , ensuring a responsive and visually appealing user experience
+          </li>
+          <li className="project-details">
+          Features : Include login and Sign up page ,Booking page And Also implemented Admin Panel
+          </li>
+          <li className="project-details"><span className='tech-span'>Technical Skills:</span> HTML, CSS, JavaScript, node.js, Express.js, MongoDB, React.js, Ant Design</li>
+          {/* <li className="project-details"></li> */}
+         </div>
+         <div className="tech-icons">
+         <i class="ri-html5-fill"></i>
+         <i class="ri-css3-fill"></i>
+         <i class="ri-javascript-fill"></i>
+         <i class="ri-npmjs-fill"></i>
+         <i class="ri-reactjs-line"></i>
+         <i class="ri-leaf-fill"></i>
+         <i class="ri-bootstrap-fill"></i>
+         </div>
+         <div className="link-container">
+          <a href="https://github.com/vinekmaurya2329/HotelBooking_app.git"><button className='link-btn'>Github link</button></a>
+          <a href="https://shivroom-client.vercel.app/"><button className='link-btn'>Live link</button></a>
+         </div>
+        </div>
 
     </div>
     
