@@ -385,13 +385,13 @@ comments, views) and calculate video earnings using a specified formula.
           Features : where you can perform your CRUD operations
           </li>
           <li className="project-details">
-          "[i] "  Add a list
+          [i]   Add a list
 
           </li>
           <li className="project-details">
-            "[ii]  " Edit the list
+            [ii]   Edit the list
           </li><li className="project-details">
-            "[iii] " remove the list
+            [iii]  remove the list
             </li>
             <li className="project-details">
             each list item  have a title, a date, a tick-box for a check/uncheck and a shorthand description. 
